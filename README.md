@@ -15,5 +15,6 @@ Link to: [Colab Notebook](https://colab.research.google.com/drive/1q2u2PMeRFRwbM
 
 [English Readme](README_EN.md)
 
-Todo:
-- [ ] Link to yoube video
+
+Link to: [Youtube video](https://youtu.be/Z7xFVN2vLgQ?si=paYqBtMKupyE0N7Q)
+
