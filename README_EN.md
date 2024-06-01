@@ -13,5 +13,4 @@ Link to: [Colab Notebook](https://colab.research.google.com/drive/1q2u2PMeRFRwbM
 
 [Readme em Português](README.md)
 
-Todo:
-- [ ] Link to YouTube video
+Link to: [Youtube video](https://youtu.be/Z7xFVN2vLgQ?si=paYqBtMKupyE0N7Q)
